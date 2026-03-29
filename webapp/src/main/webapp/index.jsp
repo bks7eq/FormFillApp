@@ -21,7 +21,7 @@
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
 
-    <label for="name"><b>RationCard</b></label>
+    <label for="name"><b>Pancard</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
     <br>
 
